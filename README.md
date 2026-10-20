@@ -19,3 +19,8 @@ Through my work analyzing Southwest Office Solutions’ data in Excel and Tablea
 At Southwest, I would use Excel for quick calculations, data validation, and one-time analyses; Tableau for exploratory visualization and communicating findings through analytical storytelling; and Power BI for interactive dashboards with cross-filtering that support ongoing business decisions.
 
 One area I am eager to develop is creating and maintaining reports that stakeholders rely on to make important decisions. I recognize this requires more than building a report. It involves understanding stakeholder priorities, incorporating feedback, and adapting reports as business needs change. In past roles, I have been flexible and receptive to feedback. I would bring that mindset to understanding what Southwest’s stakeholders value most and refining reports to meet their needs.
+
+Card Portfolio Review - Contactless Readiness 
+Which credit/debit cards should Bear Down Bank include in an early replacement batch to receive contactless cards and what evidence supports the claim? 
+https://public.tableau.com/views/CardPortfolioReview_17925358376840/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+One thing I would change if I were to do this again is I would want to create a more aesthetic visual for Renee so the explanatory page I create looks more credible and professional. 
