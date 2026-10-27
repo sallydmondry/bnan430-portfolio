@@ -24,3 +24,9 @@ Card Portfolio Review - Contactless Readiness
 Which credit/debit cards should Bear Down Bank include in an early replacement batch to receive contactless cards and what evidence supports the claim? 
 https://public.tableau.com/views/CardPortfolioReview_17925358376840/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 One thing I would change if I were to do this again is I would want to create a more aesthetic visual for Renee so the explanatory page I create looks more credible and professional. 
+
+BNAN 430 - October 26, 2026
+Card Growth Analysis - Wildcat Rewards Offer
+Business Question - Define a clearly defined group where eligible customers are most concentrated to decide who should receive the pilot. 
+https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17930744031510/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+One thing I would change if I did this project again is I would like to look more in depth into the original data so I can be more creative with the different focus groups I could have evaluated to receive the pilot. 
