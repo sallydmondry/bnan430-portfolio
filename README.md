@@ -30,3 +30,19 @@ Card Growth Analysis - Wildcat Rewards Offer
 Business Question - Define a clearly defined group where eligible customers are most concentrated to decide who should receive the pilot. 
 https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17930744031510/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 One thing I would change if I did this project again is I would like to look more in depth into the original data so I can be more creative with the different focus groups I could have evaluated to receive the pilot. 
+
+**Nov 2, 2026 · Data Storytelling with Adobe Express**
+Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: Which non-contactless cards to replace early,
+and what the batch will cost
+[Work sample (PDF)](https://github.com/...) · https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:dc5a1ba4-48c0-5757-a6aa-c9d605c00c7f?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
+Design choice: I used a two-bar comparison with the 440 cards highlighted, because Renee needs to see how small the early-replacement batch is next to the 1,253 cards that renew automatically before she approves a spend. I removed the donut chart of batch cost by expiration window, since the two segments were nearly 50/50 and its numbers were unreadable, and replaced it with a table of card counts and dollar amounts, so every figure is visible and checkable.
+**Generative AI use**
+
+I used Claude (Claude Sonnet 5.5; Anthropic, 2026) on November 2, 2026, to create a logo concept for my firm, Sonoran Analytics. I built the work sample and made all other design decisions myself in Adobe Express.
+
+Anthropic. (2026). *Claude* (Claude Sonnet 5.5) [Large language model]. https://claude.ai
+
+Prompt used (November 2, 2026):
+
+"create a sonoran analytics logo. desert redish brown theme"
+Training completed: Nov 2, 2026
