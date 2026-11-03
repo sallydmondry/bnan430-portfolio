@@ -33,8 +33,9 @@ One thing I would change if I did this project again is I would like to look mor
 
 **Nov 2, 2026 · Data Storytelling with Adobe Express**
 Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: Which non-contactless cards to replace early,
-and what the batch will cost
-[Work sample (PDF)](https://github.com/...) · https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:dc5a1ba4-48c0-5757-a6aa-c9d605c00c7f?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
+and what the batch will cost. Replace 440 cards that expire in 7+ months and the cost will be $3,520.
+PDF work sample: https://github.com/sallydmondry/bnan430-portfolio/blob/main/adobe/mondry-data-storytelling.pdf ·
+Adobe Express Link: https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:dc5a1ba4-48c0-5757-a6aa-c9d605c00c7f?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
 Design choice: I used a two-bar comparison with the 440 cards highlighted, because Renee needs to see how small the early-replacement batch is next to the 1,253 cards that renew automatically before she approves a spend. I removed the donut chart of batch cost by expiration window, since the two segments were nearly 50/50 and its numbers were unreadable, and replaced it with a table of card counts and dollar amounts, so every figure is visible and checkable.
 **Generative AI use**
 
