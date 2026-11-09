@@ -25,8 +25,7 @@ Which credit/debit cards should Bear Down Bank include in an early replacement b
 https://public.tableau.com/views/CardPortfolioReview_17925358376840/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 One thing I would change if I were to do this again is I would want to create a more aesthetic visual for Renee so the explanatory page I create looks more credible and professional. 
 
-BNAN 430 - October 26, 2026
-Card Growth Analysis - Wildcat Rewards Offer
+**BNAN 430 - October 26, 2026 Card Growth Analysis - Wildcat Rewards Offer**
 Business Question - Define a clearly defined group where eligible customers are most concentrated to decide who should receive the pilot. 
 https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17930744031510/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 One thing I would change if I did this project again is I would like to look more in depth into the original data so I can be more creative with the different focus groups I could have evaluated to receive the pilot. 
@@ -40,10 +39,19 @@ Design choice: I used a two-bar comparison with the 440 cards highlighted, becau
 **Generative AI use**
 
 I used Claude (Claude Sonnet 5.5; Anthropic, 2026) on November 2, 2026, to create a logo concept for my firm, Sonoran Analytics. I built the work sample and made all other design decisions myself in Adobe Express.
-
 Anthropic. (2026). *Claude* (Claude Sonnet 5.5) [Large language model]. https://claude.ai
 
 Prompt used (November 2, 2026):
-
 "create a sonoran analytics logo. desert redish brown theme"
 Training completed: Nov 2, 2026
+
+
+**Nov 8, 2026 · Product Pitch with Generative AI in Adobe Express**
+
+Pitch to Renee Castillo, Director of Card Operations at Bear Down Bank: approve Stage 1 of an early card replacement, 229 non-contactless cards for $1,832 in card costs, based on September 30, 2026 counts.
+[Pitch deck (PDF)](PASTE FULL GITHUB PDF LINK) · View Only Link: https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:a5900ee8-f5f6-57b9-bf11-f3124b0a40be?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
+Toughest objection: "Why hire an outside firm for just 440 cards?" Slide 7 answers it: the 440 is a September 30, 2026 snapshot, and counts and costs shift as cards near expiration. The checkpoint refreshes the count and cost before Stage 2, so each decision rests on current data instead of an old list.
+AI use: Slide 8 saguaro cactus illustration generated with Adobe Firefly in Adobe Express (VERSION SHOWN IN EXPRESS), Nov 8, 2026
+
+Training completed: November 8, 2026
+
