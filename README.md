@@ -49,7 +49,7 @@ Training completed: Nov 2, 2026
 **Nov 8, 2026 · Product Pitch with Generative AI in Adobe Express**
 
 Pitch to Renee Castillo, Director of Card Operations at Bear Down Bank: approve Stage 1 of an early card replacement, 229 non-contactless cards for $1,832 in card costs, based on September 30, 2026 counts.
-[Pitch deck (PDF)](PASTE FULL GITHUB PDF LINK) · View Only Link: https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:a5900ee8-f5f6-57b9-bf11-f3124b0a40be?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
+PDF Deck Link: https://github.com/sallydmondry/bnan430-portfolio/blob/main/adobe/mondry-product-pitch.pdf%20.pdf View Only Link: https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:a5900ee8-f5f6-57b9-bf11-f3124b0a40be?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
 Toughest objection: "Why hire an outside firm for just 440 cards?" Slide 7 answers it: the 440 is a September 30, 2026 snapshot, and counts and costs shift as cards near expiration. The checkpoint refreshes the count and cost before Stage 2, so each decision rests on current data instead of an old list.
 AI use: Slide 8 saguaro cactus illustration generated with Adobe Firefly in Adobe Express (VERSION SHOWN IN EXPRESS), Nov 8, 2026
 
